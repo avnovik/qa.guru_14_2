@@ -1,0 +1,9 @@
+plugins {
+    id 'java'
+}
+
+group 'guru.qa/homework'
+
+repositories {
+    mavenCentral()
+}
